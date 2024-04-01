@@ -1,7 +1,5 @@
 # Video Game Sales Analysis
 
-![Cover Image](link_to_cover_image)
-
 ## Table of Contents
 1. [Team Details](#team-details)
 2. [Problem Statements](#problem-statements)
@@ -11,10 +9,6 @@
 6. [Findings and Insights](#findings-and-insights)
 7. [Interpretation and Business Recommendations](#interpretation-and-business-recommendations)
 8. [Codes & Data Files](#codes--data-files)
-
-## Team Details
-- Rahul Yadav – 20BCD7127
-- Swaraj Sarkar – 20BME7009
 
 ## Problem Statements
 1. Which video game genres are the most popular and profitable?
@@ -27,8 +21,11 @@
 
 ## Descriptive Analytics
 - Action games are predominantly developed, while sports games are the most popular.
+-  [des1 Image](image/d1)
 - Game sales rose sharply after 2000 and began to decline around 2010.
+-  [des2 Image](image/d2)
 - Weak correlation found between global sales and critic scores.
+-  [des3 Image](image/d3)
 
 ## Predictive Analytics
 - Predicted sales based on genre, publisher, developer, and rating in different regions.
@@ -45,6 +42,6 @@
 - Consider social features and in-game monetization strategies.
 
 ## Codes & Data Files
-- [Descriptive Analytics Code](link_to_descriptive_analytics_code)
-- [Predictive Analytics Code](link_to_predictive_analytics_code)
-- [Data File](link_to_data_file)
+- [Descriptive Analytics Code](Business_Analytics_Project(Descriptive).ipynb)
+- [Predictive Analytics Code](Business_Analytics_Project(predictive).ipynb)
+- [Data File](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-ratings?select=Tagged-Data-Final.csv)

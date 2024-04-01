@@ -20,7 +20,7 @@
 
 ## Descriptive Analytics
 - Action games are predominantly developed, while sports games are the most popular.
--  [des1 Image](image/d1)
+-  [des1 Image](image/d1.png)
 - Game sales rose sharply after 2000 and began to decline around 2010.
 -  [des2 Image](image/d2)
 - Weak correlation found between global sales and critic scores.

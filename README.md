@@ -1,14 +1,13 @@
 # Video Game Sales Analysis
 
 ## Table of Contents
-1. [Team Details](#team-details)
-2. [Problem Statements](#problem-statements)
-3. [Data Description](#data-description)
-4. [Descriptive Analytics](#descriptive-analytics)
-5. [Predictive Analytics](#predictive-analytics)
-6. [Findings and Insights](#findings-and-insights)
-7. [Interpretation and Business Recommendations](#interpretation-and-business-recommendations)
-8. [Codes & Data Files](#codes--data-files)
+1. [Problem Statements](#problem-statements)
+2. [Data Description](#data-description)
+3. [Descriptive Analytics](#descriptive-analytics)
+4. [Predictive Analytics](#predictive-analytics)
+5. [Findings and Insights](#findings-and-insights)
+6. [Interpretation and Business Recommendations](#interpretation-and-business-recommendations)
+7. [Codes & Data Files](#codes--data-files)
 
 ## Problem Statements
 1. Which video game genres are the most popular and profitable?

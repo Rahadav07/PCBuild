@@ -22,13 +22,14 @@
 - Action games are predominantly developed, while sports games are the most popular.
    ![des1 Image](image/d1.png)
 - Game sales rose sharply after 2000 and began to decline around 2010.
--  [des2 Image](image/d2)
+   ![des2 Image](image/d2.png)
 - Weak correlation found between global sales and critic scores.
--  [des3 Image](image/d3)
+   ![des3 Image](image/d3.png)
 
 ## Predictive Analytics
 - Predicted sales based on genre, publisher, developer, and rating in different regions.
 - Identified leading investments by genre, publisher, developer, and rating across various regions.
+  ![Predictive](image/ds.png)
 
 ## Findings and Insights
 - Nintendo's platform and simulation games perform well across all regions.
